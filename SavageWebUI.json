@@ -4,7 +4,7 @@
           "OpenButton": 0,
           "HideIcon": false,
           "HideIconAfter": 60,
-          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+          "IconURL": " ",
           "DisableIconText": false,
           "IconPosition": 0,
           "IconTextColor": 0,
@@ -65,20 +65,14 @@
       "links": [
         {
           "link1": {
-            "text": "Link to Wiki",
-            "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+            "text": "Discord",
+            "url": "https://discord.gg/9V8kqc4fNr"
           }
         },
         {
           "link2": {
-            "text": "Link to discord",
-            "url": "https://discord.com/invite/K7NyrTV"
-          }
-        },
-        {
-          "link3": {
-            "text": "Link to google",
-            "url": "https://google.com"
+            "text": "Website",
+            "url": "https://www.savage-pvp.com/"
           }
         }
       ]
